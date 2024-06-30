@@ -18,7 +18,7 @@ For creating your own phishing page, phishing template of any website. Dm me on 
 # Usage:
 1. apt install python3
 2. pip install colorama
-3. 
+3. git clone https://github.com/kamalAbouKarroum/1912-phisher.git
 4. cd 1912-phisher
 5. ls
 6. pip install -r requirements.txt
