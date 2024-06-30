@@ -29,4 +29,4 @@ For creating your own phishing page, phishing template of any website. Dm me on 
 
 
 # Help
-For any question iam mostly active on instagram @cyber_dioxide , @kamal_abou_karroum
+For any question iam mostly active on instagram @kamal_abou_karroum
